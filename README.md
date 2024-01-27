@@ -37,7 +37,7 @@ The following models were implemented and compared:
 - K-Means Clustering
 
 ## Results
-- The model comparisons are shown on the screen with various graphs.
+- The results and comparisons of the data analysis and the models created using the dataset on students' mental illness were saved in the 'grafikler' file. The graphical values of the data in this data set are also included in this file
 
 ## Note
 You can see the libraries used by typing the following command in a cell in Jupyter Notebook
